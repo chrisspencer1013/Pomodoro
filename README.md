@@ -1,4 +1,4 @@
-# PythonAtWork
+# Custom pomodoro clock thing
 quick script to run at work to remind me to take breaks and refocus
 
 I'll probably update this later with...
