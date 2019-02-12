@@ -1,7 +1,6 @@
-# Custom pomodoro clock thing
-quick script to run at work to remind me to take breaks and refocus
+# Custom pomodoro clock - a quick script to remind me to take breaks and refocus
 
-I'll probably update this later with...
+I'll update this later with...
 
   more messages
 
